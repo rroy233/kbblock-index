@@ -6,7 +6,7 @@ metadata:
   labels:
     addon.kubeblocks.io/model: document
     addon.kubeblocks.io/name: mongodb
-    addon.kubeblocks.io/provider: apecloud
+    addon.kubeblocks.io/provider: roy233
     addon.kubeblocks.io/version: 0.8.0
   name: mongodb
 spec:
